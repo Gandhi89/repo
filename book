@@ -1,3 +1,4 @@
 {
-    pages: number
+    pages: number,
+    lines: number
 }
