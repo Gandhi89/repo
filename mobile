@@ -1,0 +1,6 @@
+{
+    brand_name: string,
+    hardware_number: number,
+    camera: boolean,
+    physical_keyboard: false
+}
