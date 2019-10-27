@@ -1,0 +1,4 @@
+{
+    lenght: number,
+    width: number
+}
